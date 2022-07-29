@@ -53,7 +53,7 @@ namespace ConsoleApp
 
             void Z8()
             {
-                int number = 15;
+                int number = 20;
                 int count = 1;
                 while(count <= number)
                 {
