@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gg_ff\\OneDrive\\Рабочий стол\\DZ\\DZ4\\DZ4.csproj",
-      "projectName": "DZ4",
-      "projectPath": "C:\\Users\\gg_ff\\OneDrive\\Рабочий стол\\DZ\\DZ4\\DZ4.csproj",
+      "projectUniqueName": "C:\\Users\\gg_ff\\OneDrive\\Рабочий стол\\DZ\\DZ3\\DZ3.csproj",
+      "projectName": "DZ3",
+      "projectPath": "C:\\Users\\gg_ff\\OneDrive\\Рабочий стол\\DZ\\DZ3\\DZ3.csproj",
       "packagesPath": "C:\\Users\\gg_ff\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gg_ff\\OneDrive\\Рабочий стол\\DZ\\DZ4\\obj\\",
+      "outputPath": "C:\\Users\\gg_ff\\OneDrive\\Рабочий стол\\DZ\\DZ3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gg_ff\\AppData\\Roaming\\NuGet\\NuGet.Config"
